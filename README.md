@@ -38,4 +38,4 @@
 ---
 
 ## 📊 我的 GitHub 學習數據
-![My Stats](https://vercel.app)
+![My Stats](https://vercel.app.username=hpp640927-deyue)
