@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🚀 歡迎光臨 許瑋晟 的作品集
 
-<!--
-**hpp640927-deyue/hpp640927-deyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 您好！我是一名 大學二年級的學生
+目前專注於 網頁開發、資料分析
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 專業技能
+- **程式語言**：HTML, CSS, JavaScript, Python
+- **工具與框架**：Git, Bootstrap, VS Code
+- **其他技能**：UI 設計、基礎修圖
+
+---
+
+## 🏆 精選作品集
+
+### 1. 專案名稱 A (例如：個人記帳網頁)
+- **專案簡介**：這是一個幫助大學生快速記帳的響應式網頁。
+- **使用技術**：HTML5, CSS3, JavaScript
+- **作品亮點**：解決了傳統記帳軟體介面太複雜的問題，提升 50% 記帳速度。
+- [🔗 點此觀看線上成果展示](放你的作品網址或圖片網址) / [💻 查看程式碼](放你的 GitHub 連結)
+
+### 2. 專案名稱 B (例如：旅遊圖鑑 App)
+- **專案簡介**：與同學獨立開發的台灣在地美食推薦 App。
+- **使用技術**：Flutter, Firebase
+- [🔗 點此觀看展示影片](放你的影片連結)
+
+---
+
+## 📬 聯絡我
+- **Email**：hpp640927@gmail.com
+- **LinkedIn**：[你的 LinkedIn 連結](https://linkedin.com)
