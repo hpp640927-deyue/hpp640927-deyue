@@ -38,4 +38,4 @@
 ---
 
 ## 📊 我的 GitHub 學習數據
-![My Stats](https://vercel.app.username=hpp640927-deyue)
+![我的統計圖表](https://github-readme-stats-one-teal.vercel.app/api?username=hpp640927-deyue&show_icons=true&theme=dracula)
